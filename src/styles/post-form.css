@@ -1,0 +1,16 @@
+.post-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.post-form div {
+  width: 60%;
+}
+
+.post-form input,
+.post-form textarea,
+.post-form button  {
+  width: 100%;
+  margin-bottom: 10px;
+}
